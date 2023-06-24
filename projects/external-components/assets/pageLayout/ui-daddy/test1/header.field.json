@@ -1,5 +1,28 @@
 {
     "dnd-0": [],
-    "dnd-1": [],
+    "dnd-1": [
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "dnd-3",
+                "label": "tab1",
+                "name": "tab1"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
+        }
+    ],
     "dnd-2": []
 }
