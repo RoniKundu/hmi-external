@@ -4,65 +4,154 @@
         {
             "baseProperties": {
                 "type": "text",
-                "id": "dnd-4"
+                "id": "dnd-4",
+                "name": "name",
+                "label": "name"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "email",
-                "id": "dnd-5"
+                "id": "dnd-5",
+                "name": "email",
+                "label": "email"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "tel",
-                "id": "dnd-6"
+                "id": "dnd-6",
+                "name": "tel",
+                "label": "tel"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "password",
-                "id": "dnd-7"
+                "id": "dnd-7",
+                "name": "password",
+                "label": "password"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "staticText",
-                "id": "dnd-8"
+                "id": "dnd-8",
+                "name": "staticText"
             },
-            "layoutProperties": {}
-        },
-        {
-            "baseProperties": {
-                "type": "radio",
-                "id": "dnd-9"
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
             },
-            "layoutProperties": {}
-        },
-        {
-            "baseProperties": {
-                "type": "dropdown",
-                "id": "dnd-11"
-            },
-            "layoutProperties": {}
+            "events": [],
+            "expressionProperties": {},
+            "value": "enter your review...."
         },
         {
             "baseProperties": {
                 "type": "reset",
-                "id": "dnd-10"
+                "id": "dnd-10",
+                "name": "reset",
+                "label": "reset",
+                "formName": "dnd-2"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         },
         {
             "baseProperties": {
                 "type": "submit",
-                "id": "dnd-12"
+                "id": "dnd-12",
+                "name": "submit",
+                "label": "submit"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         }
     ],
     "dnd-15": [],
@@ -72,14 +161,44 @@
                 "type": "staticImage",
                 "id": "dnd-18"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "imageUrl": "https://picsum.photos/200",
+            "altText": null,
+            "showDownload": true
         },
         {
             "baseProperties": {
                 "type": "text",
-                "id": "dnd-19"
+                "id": "dnd-19",
+                "name": "text",
+                "label": "text here....."
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         }
     ],
     "dnd-17": []
