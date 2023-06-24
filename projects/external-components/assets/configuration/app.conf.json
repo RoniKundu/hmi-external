@@ -267,7 +267,13 @@
         },
         "globalPageSettings": {
             "title": "test1",
-            "layoutProperties": null
+            "layoutProperties": {
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                }
+            }
         }
     }
 }
