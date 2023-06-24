@@ -3,10 +3,9 @@
     "dnd-1": [
         {
             "baseProperties": {
-                "type": "text",
-                "id": "dnd-3",
-                "label": "tab1",
-                "name": "tab1"
+                "type": "staticText",
+                "id": "dnd-4",
+                "name": "text1"
             },
             "layoutProperties": {
                 "labelPlacement": null,
