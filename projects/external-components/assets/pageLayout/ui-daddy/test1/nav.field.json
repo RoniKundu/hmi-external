@@ -1,1 +1,25 @@
-{}
+{
+    "dnd-0": [
+        {
+            "baseProperties": {
+                "type": "dropdown",
+                "id": "dnd-1"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "dnd-2"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "link",
+                "id": "dnd-3"
+            },
+            "layoutProperties": {}
+        }
+    ]
+}
