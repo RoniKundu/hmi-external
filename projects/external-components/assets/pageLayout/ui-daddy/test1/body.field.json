@@ -1,1 +1,69 @@
-{}
+{
+    "dnd-1": [],
+    "dnd-2": [
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "dnd-4"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "dnd-5"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "tel",
+                "id": "dnd-6"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "password",
+                "id": "dnd-7"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "dnd-8"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "radio",
+                "id": "dnd-9"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "dropdown",
+                "id": "dnd-11"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "reset",
+                "id": "dnd-10"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "submit",
+                "id": "dnd-12"
+            },
+            "layoutProperties": {}
+        }
+    ],
+    "dnd-15": []
+}
