@@ -65,5 +65,22 @@
             "layoutProperties": {}
         }
     ],
-    "dnd-15": []
+    "dnd-15": [],
+    "dnd-16": [
+        {
+            "baseProperties": {
+                "type": "staticImage",
+                "id": "dnd-18"
+            },
+            "layoutProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "dnd-19"
+            },
+            "layoutProperties": {}
+        }
+    ],
+    "dnd-17": []
 }
