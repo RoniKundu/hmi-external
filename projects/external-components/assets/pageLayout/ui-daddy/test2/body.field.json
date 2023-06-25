@@ -107,7 +107,29 @@
                 },
                 "orientation": null
             },
-            "events": [],
+            "events": [
+                {
+                    "event": "click",
+                    "debounce": null,
+                    "actions": [
+                        {
+                            "actionType": "INVOKE_API",
+                            "url": "",
+                            "condition": "",
+                            "field": "",
+                            "fieldValue": "",
+                            "messagetype": "",
+                            "messageText": "",
+                            "target": "",
+                            "timer": null,
+                            "formName": "",
+                            "componentName": "",
+                            "sharedData": [],
+                            "apiConfig": []
+                        }
+                    ]
+                }
+            ],
             "expressionProperties": {}
         },
         {
@@ -128,7 +150,29 @@
                 },
                 "orientation": null
             },
-            "events": [],
+            "events": [
+                {
+                    "event": "click",
+                    "debounce": null,
+                    "actions": [
+                        {
+                            "actionType": "CLEAR_COMPONENT_DATA",
+                            "url": "",
+                            "condition": "",
+                            "field": "",
+                            "fieldValue": "",
+                            "messagetype": "",
+                            "messageText": "",
+                            "target": "",
+                            "timer": null,
+                            "formName": "",
+                            "componentName": "",
+                            "sharedData": [],
+                            "apiConfig": []
+                        }
+                    ]
+                }
+            ],
             "expressionProperties": {}
         }
     ]
