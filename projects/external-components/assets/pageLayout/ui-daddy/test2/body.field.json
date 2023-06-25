@@ -253,7 +253,7 @@
                             "target": "",
                             "timer": null,
                             "formName": "",
-                            "componentName": "dnd-2, dnd-3, dnd-4, dnd-5",
+                            "componentName": "dnd-2",
                             "sharedData": [],
                             "apiConfig": []
                         }
