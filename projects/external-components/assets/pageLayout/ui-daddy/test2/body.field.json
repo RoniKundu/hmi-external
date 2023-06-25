@@ -4,44 +4,132 @@
         {
             "baseProperties": {
                 "type": "text",
-                "id": "dnd-2"
+                "id": "dnd-2",
+                "label": "Name :",
+                "name": "Name"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "email",
-                "id": "dnd-3"
+                "id": "dnd-3",
+                "name": "email",
+                "label": "Email Id :"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "url",
-                "id": "dnd-4"
+                "id": "dnd-4",
+                "name": "url",
+                "label": "Enter url :"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "password",
-                "id": "dnd-5"
+                "id": "dnd-5",
+                "name": "password",
+                "label": "password :"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
         },
         {
             "baseProperties": {
                 "type": "submit",
-                "id": "dnd-6"
+                "id": "dnd-6",
+                "name": "submit",
+                "label": "Log in "
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         },
         {
             "baseProperties": {
                 "type": "reset",
-                "id": "dnd-7"
+                "id": "dnd-7",
+                "name": "reset",
+                "label": "reset"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         }
     ]
 }
