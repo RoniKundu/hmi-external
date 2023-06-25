@@ -1,4 +1,69 @@
 {
+    "dnd-8": [
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "dnd-9"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "click here for log in....."
+        },
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "dnd-10",
+                "name": "button",
+                "label": "log in"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [
+                {
+                    "event": "click",
+                    "debounce": null,
+                    "actions": [
+                        {
+                            "actionType": "OPEN_MODAL",
+                            "url": "",
+                            "condition": "",
+                            "field": "",
+                            "fieldValue": "",
+                            "messagetype": "",
+                            "messageText": "",
+                            "target": "dnd-0",
+                            "timer": null,
+                            "formName": "",
+                            "componentName": "",
+                            "sharedData": [],
+                            "apiConfig": []
+                        }
+                    ]
+                }
+            ],
+            "expressionProperties": {}
+        }
+    ],
     "dnd-0": [],
     "dnd-1": [
         {
