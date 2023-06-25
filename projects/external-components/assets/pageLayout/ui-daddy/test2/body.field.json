@@ -128,7 +128,29 @@
                 },
                 "orientation": null
             },
-            "events": [],
+            "events": [
+                {
+                    "event": "",
+                    "debounce": null,
+                    "actions": [
+                        {
+                            "actionType": "",
+                            "url": "",
+                            "condition": "",
+                            "field": "",
+                            "fieldValue": "",
+                            "messagetype": "",
+                            "messageText": "",
+                            "target": "",
+                            "timer": null,
+                            "formName": "",
+                            "componentName": "",
+                            "sharedData": [],
+                            "apiConfig": []
+                        }
+                    ]
+                }
+            ],
             "expressionProperties": {},
             "value": null
         },
@@ -231,7 +253,7 @@
                             "target": "",
                             "timer": null,
                             "formName": "",
-                            "componentName": "",
+                            "componentName": "dnd-2, dnd-3, dnd-4, dnd-5",
                             "sharedData": [],
                             "apiConfig": []
                         }
