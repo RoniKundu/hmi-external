@@ -1,0 +1,70 @@
+{
+    "dnd-0": [],
+    "dnd-2": [
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "dnd-4",
+                "formName": "dnd-0",
+                "name": "forgetPassword"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "element-child",
+                    "configuration": [
+                        {
+                            "selectorName": ".element-child",
+                            "xs": {
+                                "text-align": "center",
+                                "color": "white",
+                                "parent-margin-bottom": "35px",
+                                "parent-font-size": "30px"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {
+                "visibleValue": "true"
+            },
+            "value": "Reset Password"
+        }
+    ],
+    "dnd-3": [
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "dnd-5",
+                "name": "email",
+                "label": "Enter your Email"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "Email id :"
+        },
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "dnd-7"
+            },
+            "layoutProperties": {}
+        }
+    ]
+}
