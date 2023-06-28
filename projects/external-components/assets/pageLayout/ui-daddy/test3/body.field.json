@@ -62,9 +62,23 @@
         {
             "baseProperties": {
                 "type": "button",
-                "id": "dnd-7"
+                "id": "dnd-7",
+                "name": "button",
+                "label": "Reset Password"
             },
-            "layoutProperties": {}
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         }
     ]
 }
