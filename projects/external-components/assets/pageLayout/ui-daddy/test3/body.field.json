@@ -80,8 +80,16 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "github__login-link",
+                    "configuration": [
+                        {
+                            "selectorName": ".github__login-link",
+                            "xs": {
+                                "parent-margin": "10px",
+                                "parent-justify-content": "center"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
