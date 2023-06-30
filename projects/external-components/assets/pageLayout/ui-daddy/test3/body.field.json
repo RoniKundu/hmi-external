@@ -103,10 +103,10 @@
         },
         {
             "baseProperties": {
-                "type": "url",
-                "id": "dnd-8",
-                "formName": "url",
-                "label": "back to login page"
+                "type": "link",
+                "id": "dnd-9",
+                "name": "loginPageLink",
+                "label": "Go back to login page"
             },
             "layoutProperties": {
                 "labelPlacement": null,
@@ -120,8 +120,7 @@
                 "orientation": null
             },
             "events": [],
-            "expressionProperties": {},
-            "value": "Go back to login page"
+            "expressionProperties": {}
         }
     ]
 }
