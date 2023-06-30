@@ -49,8 +49,15 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "field-label",
+                    "configuration": [
+                        {
+                            "selectorName": "field-label",
+                            "xs": {
+                                "color": "white"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
