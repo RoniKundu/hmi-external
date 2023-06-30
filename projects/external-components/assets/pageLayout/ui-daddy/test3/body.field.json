@@ -58,7 +58,7 @@
                             }
                         },
                         {
-                            "selectorName": ".temp-class-2",
+                            "selectorName": "",
                             "xs": {}
                         }
                     ],
@@ -88,7 +88,8 @@
                             "selectorName": ".github__login-link",
                             "xs": {
                                 "parent-margin": "10px",
-                                "parent-justify-content": "center"
+                                "parent-justify-content": "center",
+                                "background-color": "yellow"
                             }
                         }
                     ],
