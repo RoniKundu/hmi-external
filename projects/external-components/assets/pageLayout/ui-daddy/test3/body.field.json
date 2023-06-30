@@ -20,7 +20,7 @@
                             "xs": {
                                 "text-align": "center",
                                 "color": "white",
-                                "parent-margin-bottom": "35px",
+                                "parent-margin-bottom": "20px",
                                 "parent-font-size": "30px"
                             }
                         }
@@ -49,14 +49,16 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
+                    "customClassName": "temp-class-9",
                     "configuration": [
                         {
                             "selectorName": ".temp-class-9",
-                            "xs": {}
+                            "xs": {
+                                "parent-color": "white"
+                            }
                         },
                         {
-                            "selectorName": "",
+                            "selectorName": ".temp-class-2",
                             "xs": {}
                         }
                     ],
