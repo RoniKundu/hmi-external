@@ -52,7 +52,7 @@
                     "customClassName": "field-label",
                     "configuration": [
                         {
-                            "selectorName": "field-label",
+                            "selectorName": ".field-label",
                             "xs": {
                                 "color": "white"
                             }
