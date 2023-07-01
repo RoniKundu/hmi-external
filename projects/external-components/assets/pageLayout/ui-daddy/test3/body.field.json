@@ -82,15 +82,16 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "github__login-link",
+                    "customClassName": "reset-button",
                     "configuration": [
                         {
-                            "selectorName": ".github__login-link",
+                            "selectorName": ".reset-button",
                             "xs": {
                                 "parent-margin": "10px",
                                 "parent-justify-content": "center",
                                 "background-color": "#ffc107",
-                                "color": "black"
+                                "color": "black",
+                                "width": "100%"
                             }
                         }
                     ],
