@@ -119,7 +119,7 @@
                         {
                             "selectorName": ".loginPageLink",
                             "xs": {
-                                "align-items": "center"
+                                "parent-justify-content": "center"
                             }
                         }
                     ],
