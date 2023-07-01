@@ -89,7 +89,7 @@
                             "xs": {
                                 "parent-margin": "10px",
                                 "parent-justify-content": "center",
-                                "background-color": "<span style=\"color: rgb(32, 33, 36); font-family: consolas, &quot;lucida console&quot;, &quot;courier new&quot;, monospace; font-size: 12px; white-space: nowrap;\">#ffc107</span>",
+                                "background-color": "#ffc107",
                                 "color": "black"
                             }
                         }
