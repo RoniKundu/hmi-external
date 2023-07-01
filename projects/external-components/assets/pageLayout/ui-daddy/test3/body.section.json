@@ -59,13 +59,11 @@
                             }
                         },
                         "css": {
-                            "customClassName": "temp-class-1",
+                            "customClassName": "",
                             "configuration": [
                                 {
                                     "selectorName": ".temp-class-1",
-                                    "xs": {
-                                        "align-items": "center"
-                                    }
+                                    "xs": {}
                                 }
                             ],
                             "themeClass": ""
