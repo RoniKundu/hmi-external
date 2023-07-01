@@ -113,8 +113,15 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "loginPageLink",
+                    "configuration": [
+                        {
+                            "selectorName": ".loginPageLink",
+                            "xs": {
+                                "align-items": "center"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
