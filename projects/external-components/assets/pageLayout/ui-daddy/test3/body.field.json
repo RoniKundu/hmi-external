@@ -42,7 +42,7 @@
                 "type": "email",
                 "id": "dnd-5",
                 "name": "email",
-                "label": "Enter your Email"
+                "label": "Enter your Email :"
             },
             "layoutProperties": {
                 "labelPlacement": null,
@@ -68,7 +68,8 @@
             },
             "events": [],
             "expressionProperties": {},
-            "value": "Email id"
+            "value": "",
+            "placeholder": "Email id"
         },
         {
             "baseProperties": {
