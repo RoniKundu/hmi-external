@@ -1,0 +1,49 @@
+{
+    "dnd-0": [],
+    "dnd-1": [
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "dnd-2",
+                "name": "text",
+                "label": "abcd"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "hello....",
+            "placeholder": "hi..."
+        },
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "dnd-4",
+                "name": "staticText"
+            },
+            "layoutProperties": {
+                "labelPlacement": "left",
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "hello everyone..."
+        }
+    ]
+}
