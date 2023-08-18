@@ -4,6 +4,7 @@
             "id": "dnd-0",
             "type": "tab",
             "layout": {
+                "orientation": "horizontal",
                 "column": {
                     "ratio": {
                         "lg": "12",
