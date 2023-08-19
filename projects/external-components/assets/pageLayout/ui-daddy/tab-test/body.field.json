@@ -45,5 +45,30 @@
             "expressionProperties": {},
             "value": "hello everyone..."
         }
+    ],
+    "dnd-5": [
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "dnd-6",
+                "label": "email",
+                "name": "email"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "Enter your email",
+            "placeholder": null
+        }
     ]
 }
