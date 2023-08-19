@@ -1,5 +1,30 @@
 {
-    "dnd-0": [],
+    "dnd-0": [
+        {
+            "baseProperties": {
+                "id": "dnd-1",
+                "label": "text",
+                "type": "tab"
+            },
+            "layoutProperties":{
+                "css": {
+                    "customClassName": "section__tab-full-width"
+                }
+            }
+        },
+        {
+            "baseProperties": {
+                "id": "dnd-5",
+                "label": "email",
+                "type": "tab"
+            },
+            "layoutProperties":{
+                "css": {
+                    "customClassName": "section__tab-full-width"
+                }
+            }
+        }
+    ],
     "dnd-1": [
         {
             "baseProperties": {
