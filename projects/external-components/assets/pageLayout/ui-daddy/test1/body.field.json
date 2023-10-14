@@ -50,7 +50,7 @@
                 "type": "tel",
                 "id": "dnd-6",
                 "name": "tel no.",
-                "label": "tel"
+                "label": "tel no."
             },
             "layoutProperties": {
                 "labelPlacement": null,
