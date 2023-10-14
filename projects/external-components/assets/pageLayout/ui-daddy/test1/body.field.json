@@ -49,7 +49,7 @@
             "baseProperties": {
                 "type": "tel",
                 "id": "dnd-6",
-                "name": "tel",
+                "name": "tel no.",
                 "label": "tel"
             },
             "layoutProperties": {
@@ -65,7 +65,8 @@
             },
             "events": [],
             "expressionProperties": {},
-            "value": null
+            "value": null,
+            "placeholder": null
         },
         {
             "baseProperties": {
