@@ -98,7 +98,7 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "login__btn .dynamic-style-child",
+                    "customClassName": "login__btn",
                     "configuration": [
                         {
                             "selectorName": ".login__btn .dynamic-style-child",
