@@ -35,7 +35,7 @@
             },
             "events": [],
             "expressionProperties": {},
-            "value": null
+            "value": "Sign In"
         },
         {
             "baseProperties": {
@@ -114,9 +114,8 @@
         },
         {
             "baseProperties": {
-                "type": "url",
-                "id": "dnd-7",
-                "name": "forgotPwdLink",
+                "type": "link",
+                "id": "dnd-8",
                 "label": "Forgot Password?"
             },
             "layoutProperties": {
@@ -124,24 +123,14 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "login__forgot-link",
-                    "configuration": [
-                        {
-                            "selectorName": ".login__forgot-link",
-                            "xs": {
-                                "margin": "10px",
-                                "justify-content": "center"
-                            }
-                        }
-                    ],
+                    "customClassName": "",
+                    "configuration": [],
                     "themeClass": ""
                 },
                 "orientation": null
             },
             "events": [],
-            "expressionProperties": {},
-            "value": null,
-            "placeholder": null
+            "expressionProperties": {}
         }
     ]
 }
