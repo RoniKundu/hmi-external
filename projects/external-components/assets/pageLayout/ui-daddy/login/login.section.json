@@ -10,11 +10,25 @@
                         "md": "12",
                         "sm": "12",
                         "xs": "12"
-                    }
+                    },
+                    "count": 1
                 },
                 "css": {
-                    "configuration": [],
-                    "customClassName": null
+                    "customClassName": "section-card__center",
+                    "configuration": [
+                        {
+                            "selectorName": ".section-card__center",
+                            "xs": {
+                                "position": "fixed",
+                                "left": "50%",
+                                "top": "50%",
+                                "property4": "value",
+                                "background-color": "black",
+                                "transform": "translate(-50%,-50%)"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
                 }
             },
             "sectionList": [
