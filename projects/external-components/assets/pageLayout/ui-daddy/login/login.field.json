@@ -56,7 +56,12 @@
                 "orientation": null
             },
             "events": [],
-            "expressionProperties": {},
+            "expressionProperties": {
+                "requiredValue": "false",
+                "visibleValue": "true",
+                "readOnlyValue": "false",
+                "disabledValue": "false"
+            },
             "value": null,
             "placeholder": "Enter Your Email Id"
         },
