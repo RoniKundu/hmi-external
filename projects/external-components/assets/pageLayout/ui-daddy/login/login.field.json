@@ -98,8 +98,15 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "login__btn",
+                    "configuration": [
+                        {
+                            "selectorName": ".login__btn",
+                            "xs": {
+                                "width": "100%"
+                            }
+                        }
+                    ],
                     "themeClass": "btn-warning"
                 },
                 "orientation": null
@@ -122,8 +129,16 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "login__forgot-link",
+                    "configuration": [
+                        {
+                            "selectorName": ".login__forgot-link",
+                            "xs": {
+                                "justify-content": "center",
+                                "margin": "10px"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
