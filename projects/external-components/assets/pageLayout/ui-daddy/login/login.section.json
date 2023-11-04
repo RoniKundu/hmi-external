@@ -22,7 +22,6 @@
                                 "position": "fixed",
                                 "left": "50%",
                                 "top": "50%",
-                                "property4": "value",
                                 "background-color": "black",
                                 "transform": "translate(-50%,-50%)"
                             }
