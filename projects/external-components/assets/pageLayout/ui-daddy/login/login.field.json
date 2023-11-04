@@ -1,56 +1,142 @@
 {
-    "loginInfo": [
+    "dnd-1": [],
+    "dnd-2": [
         {
-            "value": "Sign in",
             "baseProperties": {
-                "name": "signIn",
-                "id": "signIn",
                 "type": "staticText",
-                "formName": "loginForm"
-            },
-            "expressionProperties": {
-                "visible": "",
-                "visibleValue": true
+                "id": "dnd-3",
+                "name": "signIn"
             },
             "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
                 "css": {
-                    "configuration": {
-                        "selectorName": ".element-child",
-                        "xs": {
-                            "text-align": "center",
-                            "color": "white",
-                            "parent-margin-bottom": "35px",
-                            "parent-font-size": "30px"
+                    "customClassName": "element-child",
+                    "configuration": [
+                        {
+                            "selectorName": ".element-child",
+                            "xs": {
+                                "margin-bottom": "35px",
+                                "font-size": "30px"
+                            }
+                        },
+                        {
+                            "selectorName": ".element-child .dynamic-style-child",
+                            "xs": {
+                                "text-align": "center",
+                                "color": "white"
+                            }
                         }
-                    },
-                    "customClassName": "element-child"
-                }
-            }
-        }
-    ],
-    "loginButtons": [
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null
+        },
         {
             "baseProperties": {
-                "id": "githubLoginLink",
-                "name": "githubLoginLink",
-                "type": "link",
-                "formName": "",
-                "label": "Log in with GitHub"
+                "type": "email",
+                "id": "dnd-4",
+                "name": "email",
+                "label": ""
             },
-            "accessor": "",
-            "href": "https://github.com/login/oauth/authorize?client_id=5260dbf9a0fefd183580&scope=repo&state=aRandomUnguessableString&allow_signup=true",
             "layoutProperties": {
+                "labelPlacement": "top",
+                "width": null,
+                "height": null,
                 "css": {
-                    "customClassName": "github__login-link",
-                    "configuration": {
-                        "selectorName": ".github__login-link",
-                        "xs": {
-                            "parent-margin": "10px",
-                            "parent-justify-content":"center"
-                        }
-                    }
-                }
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "Enter Your Email Id"
+        },
+        {
+            "baseProperties": {
+                "type": "password",
+                "id": "dnd-5",
+                "name": "password"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "Password"
+        },
+        {
+            "baseProperties": {
+                "type": "submit",
+                "id": "dnd-6",
+                "name": "loginBtn",
+                "label": "Login"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": "btn-warning"
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {
+                "visibleValue": "true",
+                "readOnlyValue": "false",
+                "disabledValue": "false"
             }
+        },
+        {
+            "baseProperties": {
+                "type": "url",
+                "id": "dnd-7",
+                "name": "forgotPwdLink",
+                "label": "Forgot Password?"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "login__forgot-link",
+                    "configuration": [
+                        {
+                            "selectorName": ".login__forgot-link",
+                            "xs": {
+                                "margin": "10px",
+                                "justify-content": "center"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null
         }
     ]
 }
