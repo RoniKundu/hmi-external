@@ -98,12 +98,13 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "login__btn",
+                    "customClassName": "login__btn .dynamic-style-child",
                     "configuration": [
                         {
-                            "selectorName": ".login__btn",
+                            "selectorName": ".login__btn .dynamic-style-child",
                             "xs": {
-                                "width": "100%"
+                                "width": "100%",
+                                "margin-top": "12px"
                             }
                         }
                     ],
