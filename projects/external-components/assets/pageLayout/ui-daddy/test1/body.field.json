@@ -153,6 +153,28 @@
             },
             "events": [],
             "expressionProperties": {}
+        },
+        {
+            "baseProperties": {
+                "type": "tel",
+                "id": "dnd-21",
+                "label": "Ph no. - "
+            },
+            "layoutProperties": {
+                "labelPlacement": "left",
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null
         }
     ],
     "dnd-15": [],
