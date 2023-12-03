@@ -92,6 +92,28 @@
         },
         {
             "baseProperties": {
+                "type": "text",
+                "id": "dnd-22",
+                "label": "Adress"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null
+        },
+        {
+            "baseProperties": {
                 "type": "staticText",
                 "id": "dnd-8",
                 "name": "staticText"
@@ -200,28 +222,6 @@
             "imageUrl": "https://picsum.photos/200",
             "altText": null,
             "showDownload": true
-        },
-        {
-            "baseProperties": {
-                "type": "text",
-                "id": "dnd-19",
-                "name": "text",
-                "label": "text here....."
-            },
-            "layoutProperties": {
-                "labelPlacement": null,
-                "width": null,
-                "height": null,
-                "css": {
-                    "customClassName": "",
-                    "configuration": [],
-                    "themeClass": ""
-                },
-                "orientation": null
-            },
-            "events": [],
-            "expressionProperties": {},
-            "value": null
         }
     ],
     "dnd-17": []
