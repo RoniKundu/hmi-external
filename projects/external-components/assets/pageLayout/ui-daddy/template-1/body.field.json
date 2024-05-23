@@ -1,0 +1,34 @@
+{
+    "db-0": [],
+    "db-1": [
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "db-2",
+                "name": "signIn"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "login-text",
+                    "configuration": [
+                        {
+                            "selectorName": ".login-text",
+                            "xs": {
+                                "padding": "20px 0px"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "Login",
+            "dynamicValueAccessor": null
+        }
+    ]
+}
