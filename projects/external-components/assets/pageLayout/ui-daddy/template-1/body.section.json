@@ -1,0 +1,54 @@
+{
+    "layout": [
+        {
+            "id": "db-0",
+            "type": "form",
+            "layout": {
+                "column": {
+                    "ratio": {
+                        "lg": "12",
+                        "md": "12",
+                        "sm": "12",
+                        "xs": "12"
+                    },
+                    "count": 1
+                },
+                "css": {
+                    "customClassName": "section-card__center-form",
+                    "configuration": [
+                        {
+                            "selectorName": ".section-card__center-form",
+                            "xs": {
+                                "top": "50%",
+                                "left": "50%",
+                                "background-color": "#eaeaea"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                }
+            },
+            "sectionList": [
+                {
+                    "id": "db-1",
+                    "type": "content",
+                    "layout": {
+                        "column": {
+                            "ratio": {
+                                "lg": "12",
+                                "md": "12",
+                                "sm": "12",
+                                "xs": "12"
+                            }
+                        },
+                        "css": {
+                            "configuration": [],
+                            "customClassName": null
+                        }
+                    },
+                    "sectionList": []
+                }
+            ]
+        }
+    ]
+}
