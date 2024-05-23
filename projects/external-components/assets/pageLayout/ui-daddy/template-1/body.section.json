@@ -39,11 +39,21 @@
                                 "md": "12",
                                 "sm": "12",
                                 "xs": "12"
-                            }
+                            },
+                            "count": 1
                         },
                         "css": {
-                            "configuration": [],
-                            "customClassName": null
+                            "customClassName": "containt-form",
+                            "configuration": [
+                                {
+                                    "selectorName": ".containt-form",
+                                    "xs": {
+                                        "width": "55%",
+                                        "align-items": "left"
+                                    }
+                                }
+                            ],
+                            "themeClass": ""
                         }
                     },
                     "sectionList": []
