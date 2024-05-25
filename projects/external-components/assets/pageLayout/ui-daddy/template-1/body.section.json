@@ -67,7 +67,7 @@
                                         {
                                             "selectorName": ".containt-form",
                                             "xs": {
-                                                "width": "55%",
+                                                "width": "65%",
                                                 "align-items": "left"
                                             }
                                         }
