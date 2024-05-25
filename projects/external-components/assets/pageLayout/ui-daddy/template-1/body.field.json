@@ -18,10 +18,9 @@
                         {
                             "selectorName": ".login-text",
                             "xs": {
-                                "padding": "20px 0px",
-                                "font-size": "40px",
-                                "color": "#6c7293",
-                                "font-weight": "500",
+                                "font-size": "50px",
+                                "color": "#2299c7",
+                                "font-weight": "600",
                                 "justify-content": "start"
                             }
                         }
