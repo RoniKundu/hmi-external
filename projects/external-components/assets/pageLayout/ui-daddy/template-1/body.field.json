@@ -213,6 +213,59 @@
             "value": null,
             "placeholder": "password",
             "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "checkbox",
+                "id": "db-11"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": "horizontal"
+            },
+            "events": [],
+            "expressionProperties": {},
+            "optionList": [
+                {
+                    "label": "I agree to all Terms & Conditions"
+                }
+            ],
+            "value": "value"
+        },
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "db-12",
+                "name": "loginBtn",
+                "label": "SIGN UP"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "login-Btn",
+                    "configuration": [
+                        {
+                            "selectorName": ".login-Btn .dynamic-style-child",
+                            "xs": {
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
         }
     ],
     "db-6": []
