@@ -21,7 +21,8 @@
                                 "padding": "20px 0px",
                                 "font-size": "40px",
                                 "color": "#6c7293",
-                                "font-weight": "500"
+                                "font-weight": "500",
+                                "justify-content": "start"
                             }
                         }
                     ],
@@ -51,7 +52,14 @@
                         {
                             "selectorName": ".new-here-text",
                             "xs": {
-                                "font-size": "24px"
+                                "font-size": "24px",
+                                "justify-content": "start"
+                            }
+                        },
+                        {
+                            "selectorName": ".section-container__field",
+                            "xs": {
+                                "margin-bottom": "0px"
                             }
                         }
                     ],
@@ -74,8 +82,15 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "join-us-text",
+                    "configuration": [
+                        {
+                            "selectorName": ".join-us-text",
+                            "xs": {
+                                "justify-content": "start"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
@@ -84,6 +99,121 @@
             "expressionProperties": {},
             "value": "Join us today! It takes only few steps",
             "dynamicValueAccessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "db-7",
+                "name": "username",
+                "label": "Username"
+            },
+            "layoutProperties": {
+                "labelPlacement": "top",
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "username",
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "db-8",
+                "name": "email",
+                "label": "Email"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "email",
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "dropdown",
+                "id": "db-9",
+                "name": "dropdown",
+                "label": "Country"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "optionList": [
+                {
+                    "label": "united States of America "
+                },
+                {
+                    "label": "United kingdom"
+                },
+                {
+                    "label": "India"
+                },
+                {
+                    "label": "Germany"
+                },
+                {
+                    "label": "Argentina"
+                }
+            ],
+            "optionsConfig": {},
+            "labelKey": "label",
+            "valueKey": "",
+            "value": ""
+        },
+        {
+            "baseProperties": {
+                "type": "password",
+                "id": "db-10",
+                "name": "password",
+                "label": "Password"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "password",
+            "accessor": null
         }
-    ]
+    ],
+    "db-6": []
 }
