@@ -1,37 +1,27 @@
 {
     "layout": [
         {
-            "id": "db-0",
+            "id": "db-5",
             "type": "form",
             "layout": {
                 "column": {
                     "ratio": {
-                        "lg": "12",
-                        "md": "12",
-                        "sm": "12",
-                        "xs": "12"
+                        "lg": "6:6",
+                        "md": "6:6",
+                        "sm": "6:6",
+                        "xs": "6:6"
                     },
-                    "count": 1
+                    "count": "2"
                 },
                 "css": {
-                    "customClassName": "section-card__center-form",
-                    "configuration": [
-                        {
-                            "selectorName": ".section-card__center-form",
-                            "xs": {
-                                "top": "50%",
-                                "left": "50%",
-                                "background-color": "#eaeaea"
-                            }
-                        }
-                    ],
-                    "themeClass": ""
+                    "configuration": [],
+                    "customClassName": null
                 }
             },
             "sectionList": [
                 {
-                    "id": "db-1",
-                    "type": "content",
+                    "id": "db-0",
+                    "type": "form",
                     "layout": {
                         "column": {
                             "ratio": {
@@ -43,20 +33,51 @@
                             "count": 1
                         },
                         "css": {
-                            "customClassName": "containt-form",
+                            "customClassName": "section-card__center-form",
                             "configuration": [
                                 {
-                                    "selectorName": ".containt-form",
+                                    "selectorName": ".section-card__center-form",
                                     "xs": {
-                                        "width": "55%",
-                                        "align-items": "left"
+                                        "top": "50%",
+                                        "left": "50%",
+                                        "background-color": "#eaeaea"
                                     }
                                 }
                             ],
                             "themeClass": ""
                         }
                     },
-                    "sectionList": []
+                    "sectionList": [
+                        {
+                            "id": "db-1",
+                            "type": "content",
+                            "layout": {
+                                "column": {
+                                    "ratio": {
+                                        "lg": "12",
+                                        "md": "12",
+                                        "sm": "12",
+                                        "xs": "12"
+                                    },
+                                    "count": 1
+                                },
+                                "css": {
+                                    "customClassName": "containt-form",
+                                    "configuration": [
+                                        {
+                                            "selectorName": ".containt-form",
+                                            "xs": {
+                                                "width": "55%",
+                                                "align-items": "left"
+                                            }
+                                        }
+                                    ],
+                                    "themeClass": ""
+                                }
+                            },
+                            "sectionList": []
+                        }
+                    ]
                 }
             ]
         }
