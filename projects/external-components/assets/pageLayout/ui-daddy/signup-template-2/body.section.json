@@ -19,7 +19,7 @@
                         {
                             "selectorName": ".section-card-form",
                             "xs": {
-                                "width": "60%",
+                                "width": "600px",
                                 "top": "50%",
                                 "left": "50%",
                                 "border-radious": "10px",
