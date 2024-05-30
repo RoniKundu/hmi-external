@@ -89,11 +89,20 @@
                                 "md": "12",
                                 "sm": "12",
                                 "xs": "12"
-                            }
+                            },
+                            "count": 1
                         },
                         "css": {
-                            "configuration": [],
-                            "customClassName": null
+                            "customClassName": "section-card_right-form",
+                            "configuration": [
+                                {
+                                    "selectorName": ".section-card_right-form",
+                                    "xs": {
+                                        "background-image": "url(assets/images/buildings.jpg)"
+                                    }
+                                }
+                            ],
+                            "themeClass": ""
                         }
                     },
                     "sectionList": []
