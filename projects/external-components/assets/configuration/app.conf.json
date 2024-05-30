@@ -269,5 +269,51 @@
             "title": "template-1",
             "layoutProperties": null
         }
+    },
+    "signup-template-2": {
+        "headerField": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/header.field.json"
+        },
+        "headerSection": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/header.section.json"
+        },
+        "field": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/body.field.json"
+        },
+        "section": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/body.section.json"
+        },
+        "footerField": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/footer.field.json"
+        },
+        "footerSection": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/footer.section.json"
+        },
+        "data": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/body.data.json"
+        },
+        "navField": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/nav.field.json"
+        },
+        "navSection": {
+            "fetchFromLocal": true,
+            "localURL": "./assets/pageLayout/ui-daddy/signup-template-2/nav.section.json"
+        },
+        "authGuardConfig": {
+            "enabled": false,
+            "conditions": []
+        },
+        "globalPageSettings": {
+            "title": "signup-template-2",
+            "layoutProperties": null
+        }
     }
 }
