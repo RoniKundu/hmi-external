@@ -321,7 +321,9 @@
                         {
                             "selectorName": ".signup-template-2",
                             "xs": {
-                                "background-image": "url(assets/images/mountain.jpg)"
+                                "background-image": "url(assets/images/mountain.jpg)",
+                                "background-size": "cover",
+                                "background-position": "center center"
                             }
                         }
                     ],
