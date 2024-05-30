@@ -17,7 +17,9 @@
                         {
                             "selectorName": ".signin-btn",
                             "xs": {
-                                "width": "80px"
+                                "width": "280px",
+                                "top": "50%",
+                                "left": "50%"
                             }
                         }
                     ],
@@ -29,5 +31,118 @@
             "expressionProperties": {}
         }
     ],
-    "db-2": []
+    "db-2": [
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "db-4",
+                "name": ""
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "Sign Up",
+            "dynamicValueAccessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "db-5",
+                "formName": "username"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "User",
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "db-6",
+                "name": "email"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "Email",
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "password",
+                "id": "db-7",
+                "name": "password"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": "Password",
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "db-8",
+                "label": "SIGN UP",
+                "name": "signupBtn"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
+        }
+    ]
 }
