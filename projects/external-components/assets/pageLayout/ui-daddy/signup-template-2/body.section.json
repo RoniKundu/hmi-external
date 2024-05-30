@@ -1,0 +1,75 @@
+{
+    "layout": [
+        {
+            "id": "db-0",
+            "type": "form",
+            "layout": {
+                "column": {
+                    "ratio": {
+                        "lg": "6:6",
+                        "md": "6:6",
+                        "sm": "6:6",
+                        "xs": "6:6"
+                    },
+                    "count": "2"
+                },
+                "css": {
+                    "customClassName": "section-card-form",
+                    "configuration": [
+                        {
+                            "selectorName": ".section-card-form",
+                            "xs": {
+                                "width": "70%",
+                                "top": "50%",
+                                "left": "50%",
+                                "border-radious": "10px",
+                                "background": "white"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                }
+            },
+            "sectionList": [
+                {
+                    "id": "db-1",
+                    "type": "content",
+                    "layout": {
+                        "column": {
+                            "ratio": {
+                                "lg": "12",
+                                "md": "12",
+                                "sm": "12",
+                                "xs": "12"
+                            }
+                        },
+                        "css": {
+                            "configuration": [],
+                            "customClassName": null
+                        }
+                    },
+                    "sectionList": []
+                },
+                {
+                    "id": "db-2",
+                    "type": "content",
+                    "layout": {
+                        "column": {
+                            "ratio": {
+                                "lg": "12",
+                                "md": "12",
+                                "sm": "12",
+                                "xs": "12"
+                            }
+                        },
+                        "css": {
+                            "configuration": [],
+                            "customClassName": null
+                        }
+                    },
+                    "sectionList": []
+                }
+            ]
+        }
+    ]
+}
