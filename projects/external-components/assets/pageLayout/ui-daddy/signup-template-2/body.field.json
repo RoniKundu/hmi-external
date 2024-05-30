@@ -1,5 +1,33 @@
 {
     "db-0": [],
-    "db-1": [],
+    "db-1": [
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "db-3",
+                "label": "SIGN IN"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "signin-btn",
+                    "configuration": [
+                        {
+                            "selectorName": ".signin-btn",
+                            "xs": {
+                                "width": "80px"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
+        }
+    ],
     "db-2": []
 }
