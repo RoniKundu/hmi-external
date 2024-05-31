@@ -15,9 +15,16 @@
                     "customClassName": "signin-btn",
                     "configuration": [
                         {
-                            "selectorName": ".signin-btn",
+                            "selectorName": ".signin-btn .dynamic-style-child",
                             "xs": {
-                                "width": "280px",
+                                "width": "180px",
+                                "top": "50%",
+                                "left": "50%"
+                            }
+                        },
+                        {
+                            "selectorName": ".signin-btn .dynamic-style-parent",
+                            "xs": {
                                 "top": "50%",
                                 "left": "50%"
                             }
