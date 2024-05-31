@@ -14,16 +14,17 @@
                     "count": "2"
                 },
                 "css": {
-                    "customClassName": "section-card-form",
+                    "customClassName": "form",
                     "configuration": [
                         {
-                            "selectorName": ".section-card-form",
+                            "selectorName": ".form",
                             "xs": {
                                 "width": "600px",
                                 "top": "50%",
                                 "left": "50%",
                                 "border-radious": "10px",
-                                "background": "white"
+                                "background": "white",
+                                "padding": "0"
                             }
                         }
                     ],
@@ -41,11 +42,24 @@
                                 "md": "12",
                                 "sm": "12",
                                 "xs": "12"
-                            }
+                            },
+                            "count": 1
                         },
                         "css": {
-                            "configuration": [],
-                            "customClassName": null
+                            "customClassName": "left-container",
+                            "configuration": [
+                                {
+                                    "selectorName": ".left-container",
+                                    "xs": {
+                                        "background-image": "url(assets/images/mountain.jpg)",
+                                        "background-position": "center center",
+                                        "height": "100%",
+                                        "margin": "0",
+                                        "padding": "0"
+                                    }
+                                }
+                            ],
+                            "themeClass": ""
                         }
                     },
                     "sectionList": []
