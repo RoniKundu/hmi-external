@@ -14,7 +14,7 @@
                     "count": "2"
                 },
                 "css": {
-                    "customClassName": "form",
+                    "customClassName": "form section-card__center",
                     "configuration": [
                         {
                             "selectorName": ".form",
@@ -74,11 +74,20 @@
                                 "md": "12",
                                 "sm": "12",
                                 "xs": "12"
-                            }
+                            },
+                            "count": 1
                         },
                         "css": {
-                            "configuration": [],
-                            "customClassName": null
+                            "customClassName": "right-container",
+                            "configuration": [
+                                {
+                                    "selectorName": ".right-container",
+                                    "xs": {
+                                        "padding-left": "0"
+                                    }
+                                }
+                            ],
+                            "themeClass": ""
                         }
                     },
                     "sectionList": []
