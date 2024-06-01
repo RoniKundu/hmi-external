@@ -12,21 +12,19 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "signin-btn",
+                    "customClassName": "signin-btn ",
                     "configuration": [
                         {
                             "selectorName": ".signin-btn .dynamic-style-child",
                             "xs": {
-                                "width": "180px",
-                                "top": "50%",
-                                "left": "50%"
+                                "width": "180px"
                             }
                         },
                         {
-                            "selectorName": ".signin-btn .dynamic-style-parent",
+                            "selectorName": ".signin-btn",
                             "xs": {
-                                "top": "50%",
-                                "left": "50%"
+                                "justify-content": "center",
+                                "align-items": "center"
                             }
                         }
                     ],
@@ -50,8 +48,22 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "singup-txt",
+                    "configuration": [
+                        {
+                            "selectorName": ".singup-txt",
+                            "xs": {
+                                "font-size": "30px",
+                                "padding-top": "20px"
+                            }
+                        },
+                        {
+                            "selectorName": ".singup-txt .dynamic-style-parent",
+                            "xs": {
+                                "margin-bottom": "-10px"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
@@ -95,8 +107,15 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "email-field",
+                    "configuration": [
+                        {
+                            "selectorName": ".email-field .dynamic-style-parent .section-container__field",
+                            "xs": {
+                                "margin-botom": "0"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
@@ -142,8 +161,22 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "signup-btn",
+                    "configuration": [
+                        {
+                            "selectorName": ".signup-btn",
+                            "xs": {
+                                "justify-content": "center"
+                            }
+                        },
+                        {
+                            "selectorName": ".signup-btn .dynamic-style-child",
+                            "xs": {
+                                "width": "180px",
+                                "margin-top": "20px"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
