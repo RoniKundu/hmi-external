@@ -14,8 +14,9 @@
                     "count": "2"
                 },
                 "css": {
+                    "customClassName": "",
                     "configuration": [],
-                    "customClassName": null
+                    "themeClass": ""
                 }
             },
             "sectionList": [
@@ -98,8 +99,14 @@
                                 {
                                     "selectorName": ".section-card_right-form",
                                     "xs": {
-                                        "background-image": "url(assets/images/buildings.jpg)"
+                                        "background-image": "url(assets/images/buildings.jpg)",
+                                        "height": "100%",
+                                        "background-position": "center center"
                                     }
+                                },
+                                {
+                                    "selectorName": ".temp-class-1",
+                                    "xs": {}
                                 }
                             ],
                             "themeClass": ""
