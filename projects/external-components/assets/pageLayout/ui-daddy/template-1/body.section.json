@@ -101,7 +101,8 @@
                                     "xs": {
                                         "background-image": "url(assets/images/buildings.jpg)",
                                         "height": "100%",
-                                        "background-position": "center center"
+                                        "background-position": "center center",
+                                        "background-size": "100% 100%"
                                     }
                                 },
                                 {
