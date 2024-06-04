@@ -31,7 +31,7 @@
                         {
                             "selectorName": ".signin-btn",
                             "xs": {
-                                "transform": "translate(50px, 185px)"
+                                "transform": "translate(40px, 195px)"
                             }
                         }
                     ],
@@ -180,7 +180,7 @@
                             "selectorName": ".signup-btn .dynamic-style-child",
                             "xs": {
                                 "width": "180px",
-                                "margin-top": "20px",
+                                "margin": "10px",
                                 "background": "-webkit-linear-gradient(90deg,#0367a6,#008997)",
                                 "border": "1px solid #0367a6",
                                 "border-radius": "20px",
