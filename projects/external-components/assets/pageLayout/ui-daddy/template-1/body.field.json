@@ -217,8 +217,8 @@
             ],
             "optionsConfig": {},
             "labelKey": "label",
-            "valueKey": "",
-            "value": ""
+            "valueKey": "value",
+            "value": "Country"
         },
         {
             "baseProperties": {
