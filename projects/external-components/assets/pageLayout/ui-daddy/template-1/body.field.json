@@ -51,8 +51,11 @@
                         {
                             "selectorName": ".new-here-text",
                             "xs": {
-                                "font-size": "24px",
-                                "justify-content": "start"
+                                "font-size": "1.225rem",
+                                "justify-content": "start",
+                                "color": "#6c7293",
+                                "font-weight": "550",
+                                "line-height": "1"
                             }
                         },
                         {
@@ -86,7 +89,10 @@
                         {
                             "selectorName": ".join-us-text",
                             "xs": {
-                                "justify-content": "start"
+                                "justify-content": "start",
+                                "font-weight": "350",
+                                "font-size": ".950rem",
+                                "color": "#6c7293"
                             }
                         }
                     ],
