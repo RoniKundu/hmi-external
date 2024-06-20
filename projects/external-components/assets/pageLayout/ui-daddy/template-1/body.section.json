@@ -14,8 +14,21 @@
                     "count": "2"
                 },
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "main-section",
+                    "configuration": [
+                        {
+                            "selectorName": ".main-section > .row > .col6",
+                            "xs": {
+                                "padding": "0"
+                            }
+                        },
+                        {
+                            "selectorName": ".main-section > .row > .col6",
+                            "lg": {
+                                "padding": "0"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 }
             },
