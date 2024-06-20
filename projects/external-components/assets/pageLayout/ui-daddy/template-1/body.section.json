@@ -17,10 +17,8 @@
                     "customClassName": "main-section",
                     "configuration": [
                         {
-                            "selectorName": ".main-section > .row > .col6",
-                            "xs": {
-                                "padding": "0"
-                            }
+                            "selectorName": ".temp-class-1",
+                            "xs": {}
                         },
                         {
                             "selectorName": ".main-section > .row > .col6",
