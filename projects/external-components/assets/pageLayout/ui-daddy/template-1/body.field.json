@@ -59,10 +59,8 @@
                             }
                         },
                         {
-                            "selectorName": ".section-container__field",
-                            "xs": {
-                                "margin-bottom": "0px"
-                            }
+                            "selectorName": ".temp-class-1",
+                            "xs": {}
                         }
                     ],
                     "themeClass": ""
@@ -117,8 +115,17 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "username",
+                    "configuration": [
+                        {
+                            "selectorName": ".username",
+                            "xs": {
+                                "font-size": ".85rem",
+                                "line-height": "1.5rem",
+                                "color": "#6c7293"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
@@ -126,7 +133,7 @@
             "events": [],
             "expressionProperties": {},
             "value": null,
-            "placeholder": "username",
+            "placeholder": "Username",
             "accessor": null
         },
         {
