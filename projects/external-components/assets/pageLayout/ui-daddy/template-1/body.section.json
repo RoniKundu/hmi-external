@@ -81,20 +81,8 @@
                                         {
                                             "selectorName": ".containt-form",
                                             "xs": {
-                                                "width": "60%",
+                                                "width": "65%",
                                                 "align-items": "left"
-                                            }
-                                        },
-                                        {
-                                            "selectorName": ".containt-form > .row > .col-12:nth-child(2)",
-                                            "xs": {
-                                                "margin-bottom": "0"
-                                            }
-                                        },
-                                        {
-                                            "selectorName": ".containt-form > .row > .col-12:nth-child(6)",
-                                            "xs": {
-                                                "margin-bottom": "0"
                                             }
                                         }
                                     ],
