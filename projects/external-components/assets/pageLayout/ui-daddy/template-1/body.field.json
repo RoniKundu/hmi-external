@@ -148,8 +148,17 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "email",
+                    "configuration": [
+                        {
+                            "selectorName": ".email",
+                            "xs": {
+                                "font-weight": ".85rem",
+                                "line-height": "1.5rem",
+                                "color": "#6c7293"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
