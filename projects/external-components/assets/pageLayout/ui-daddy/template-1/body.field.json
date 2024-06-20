@@ -181,8 +181,17 @@
                 "width": null,
                 "height": null,
                 "css": {
-                    "customClassName": "",
-                    "configuration": [],
+                    "customClassName": "dropdown",
+                    "configuration": [
+                        {
+                            "selectorName": ".dropdown",
+                            "xs": {
+                                "font-size": ".85rem",
+                                "line-height": "1.5rem",
+                                "color": "#6c7293"
+                            }
+                        }
+                    ],
                     "themeClass": ""
                 },
                 "orientation": null
@@ -191,7 +200,7 @@
             "expressionProperties": {},
             "optionList": [
                 {
-                    "label": "united States of America "
+                    "label": "United States of America "
                 },
                 {
                     "label": "United kingdom"
