@@ -17,8 +17,10 @@
                     "customClassName": "main-section",
                     "configuration": [
                         {
-                            "selectorName": ".temp-class-1",
-                            "xs": {}
+                            "selectorName": ".main-section",
+                            "xs": {
+                                "height": "100%"
+                            }
                         },
                         {
                             "selectorName": ".main-section > .row > .col6",
@@ -81,6 +83,12 @@
                                             "xs": {
                                                 "width": "65%",
                                                 "align-items": "left"
+                                            }
+                                        },
+                                        {
+                                            "selectorName": ".containt-form > .row > .col-12:nth-child(2)",
+                                            "xs": {
+                                                "margin-bottom": "0"
                                             }
                                         }
                                     ],
