@@ -90,18 +90,38 @@
                                                 "width": "65%",
                                                 "align-items": "left"
                                             }
-                                        },
+                                        }
+                                    ],
+                                    "themeClass": ""
+                                }
+                            },
+                            "sectionList": []
+                        },
+                        {
+                            "id": "db-13",
+                            "type": "content",
+                            "layout": {
+                                "column": {
+                                    "ratio": {
+                                        "lg": "6:6",
+                                        "md": "6:6",
+                                        "sm": "6:6",
+                                        "xs": "6:6"
+                                    },
+                                    "count": "2"
+                                },
+                                "css": {
+                                    "customClassName": "bottom-content",
+                                    "configuration": [
                                         {
-                                            "selectorName": ".containt-form > .row > .col-12:nth-child(2)",
+                                            "selectorName": ".bottom-content > .row > .col-6",
                                             "xs": {
-                                                "margin-bottom": "0"
+                                                "padding": "1px"
                                             }
                                         },
                                         {
-                                            "selectorName": ".containt-form > .row > .col-12:nth-child(6)",
-                                            "xs": {
-                                                "margin-bottom": "0"
-                                            }
+                                            "selectorName": ".temp-class-2",
+                                            "xs": {}
                                         }
                                     ],
                                     "themeClass": ""
