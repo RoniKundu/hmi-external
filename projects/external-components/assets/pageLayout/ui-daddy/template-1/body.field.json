@@ -317,5 +317,65 @@
             "expressionProperties": {}
         }
     ],
+    "db-13": [
+        {
+            "baseProperties": {
+                "type": "staticText",
+                "id": "db-14"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "bottom-text",
+                    "configuration": [
+                        {
+                            "selectorName": ".bottom-text",
+                            "xs": {
+                                "justify-content": "flex-end",
+                                "font-size": ".85rem",
+                                "line-height": "1.5rem",
+                                "color": "#6c7293"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": "Already have an account? ",
+            "dynamicValueAccessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "link",
+                "id": "db-15",
+                "label": "Login"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "bottom-link",
+                    "configuration": [
+                        {
+                            "selectorName": ".bottom-link",
+                            "xs": {
+                                "justify-content": "flex-start"
+                            }
+                        }
+                    ],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
+        }
+    ],
     "db-6": []
 }
