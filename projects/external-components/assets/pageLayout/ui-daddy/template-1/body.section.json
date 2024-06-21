@@ -27,6 +27,12 @@
                             "lg": {
                                 "padding": "0"
                             }
+                        },
+                        {
+                            "selectorName": ".main-section > .row > .col-6",
+                            "xs": {
+                                "padding": "0"
+                            }
                         }
                     ],
                     "themeClass": ""
