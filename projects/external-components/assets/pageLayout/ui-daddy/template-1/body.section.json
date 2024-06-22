@@ -116,9 +116,9 @@
                                 "column": {
                                     "ratio": {
                                         "lg": "auto:auto",
-                                        "md": "6:6",
-                                        "sm": "6:6",
-                                        "xs": "6:6"
+                                        "md": "auto:auto",
+                                        "sm": "auto:auto",
+                                        "xs": "auto:auto"
                                     },
                                     "count": "2"
                                 },
@@ -132,8 +132,10 @@
                                             }
                                         },
                                         {
-                                            "selectorName": ".temp-class-2",
-                                            "xs": {}
+                                            "selectorName": ".bottom-content > .row",
+                                            "xs": {
+                                                "justify-content": "center"
+                                            }
                                         }
                                     ],
                                     "themeClass": ""
