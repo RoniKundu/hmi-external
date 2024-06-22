@@ -115,7 +115,7 @@
                             "layout": {
                                 "column": {
                                     "ratio": {
-                                        "lg": "6:6",
+                                        "lg": "auto:auto",
                                         "md": "6:6",
                                         "sm": "6:6",
                                         "xs": "6:6"
