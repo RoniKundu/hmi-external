@@ -90,6 +90,12 @@
                                                 "width": "65%",
                                                 "align-items": "left"
                                             }
+                                        },
+                                        {
+                                            "selectorName": ".containt-form > .row > .col-12:nth-child(2)",
+                                            "xs": {
+                                                "margin-bottom": "0"
+                                            }
                                         }
                                     ],
                                     "themeClass": ""
