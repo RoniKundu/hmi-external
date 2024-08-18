@@ -1,0 +1,78 @@
+{
+    "db-0": [
+        {
+            "baseProperties": {
+                "type": "dynamicField",
+                "id": "db-1",
+                "name": "contactList"
+            },
+            "layoutProperties": {
+                "labelPlacement": "top",
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "libraryComponent": "TableExternalComponent",
+            "events": [],
+            "expressionProperties": {
+                "visibleValue": "true"
+            },
+            "customAttributes": {
+                "columns": [
+                    {
+                        "colName": "Name",
+                        "filterType": "text",
+                        "accessor": "",
+                        "colWidth": {
+                            "unit": "px",
+                            "value": 300
+                        }
+                    },
+                    {
+                        "colName": "Email",
+                        "filterType": "text",
+                        "accessor": "",
+                        "colWidth": {
+                            "unit": "px",
+                            "value": 350
+                        }
+                    },
+                    {
+                        "colName": "Contact No",
+                        "filterType": "text",
+                        "accessor": "",
+                        "colWidth": {
+                            "unit": "px",
+                            "value": 275
+                        }
+                    },
+                    {
+                        "colName": "Company Name",
+                        "filterType": "text",
+                        "accessor": "",
+                        "colWidth": {
+                            "unit": "px",
+                            "value": 300
+                        }
+                    }
+                ],
+                "caption": "Contact-us info Table",
+                "summary": null,
+                "globalFilterFields": null,
+                "dataKey": null,
+                "resizableColumns": true,
+                "responsive": true,
+                "dataConfig": null,
+                "columnFilter": true,
+                "showExportExcelBtn": true,
+                "showExportPdfBtn": true,
+                "showPrintPreviewBtn": true
+            }
+        }
+    ]
+}
